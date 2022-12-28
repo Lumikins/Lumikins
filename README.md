@@ -1,5 +1,8 @@
 Hi 👋 My name is Dima Krassovsky
-================================Junior Web Developer--------------------I am a junior web developer, focusing mainly on the front-end* 🌍  I'm based in Paris, France* ✉️  You can contact me at [dimak.webdev@gmail.com](mailto:dimak.webdev@gmail.com)* 🧠  I'm learning everything web development related!* ⚡  I love foreign languages!
+================================
+Junior Web Developer
+--------------------
+I am a junior web developer, focusing mainly on the front-end* 🌍  I'm based in Paris, France* ✉️  You can contact me at [dimak.webdev@gmail.com](mailto:dimak.webdev@gmail.com)* 🧠  I'm learning everything web development related!* ⚡  I love foreign languages!
 
 ### Skills
 

@@ -19,3 +19,7 @@ I am a junior web developer, focusing mainly on the front-end
 ### Badges
 
 <a href="https://github.com/Lumikins" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumikins&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+Created with [ProfileMe.dev](https://www.profileme.dev)
+</br>
+Shoutout to [James Q Quick](https://www.jamesqquick.com/) for sharing this tool!
